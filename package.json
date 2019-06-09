@@ -1,0 +1,17 @@
+{
+  "name": "webrtc-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Uro3/webrtc-test.git",
+  "author": "Uro3 <miyakawa.uro3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html -d docs --no-source-maps"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  }
+}

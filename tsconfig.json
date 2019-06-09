@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "outDir": "./docs/",
+      "module": "es6",
+      "target": "es5",
+      "sourceMap": true,
+      "strict": true,
+      "allowJs": true
+    }
+  }
